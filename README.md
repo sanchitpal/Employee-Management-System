@@ -28,5 +28,5 @@ This project allows users to add, edit, delete, search, and manage employee deta
 
 ---
 
-## 📁 Project Structure
+
 
