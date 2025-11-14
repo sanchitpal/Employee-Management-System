@@ -1,5 +1,5 @@
 # Employee-Management-System
-# Employee Management System
+
 
 A simple and responsive **Employee Management System** built using **HTML, CSS, and JavaScript**.  
 This project allows users to add, edit, delete, search, and manage employee details directly in the browser using local storage.
